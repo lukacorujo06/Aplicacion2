@@ -1,0 +1,7 @@
+D:\Luka Corujo\Programas\Git\Aplicacion2\Aplicacion 2\Aplicacion 2\bin\Debug\Aplicacion 2.exe
+D:\Luka Corujo\Programas\Git\Aplicacion2\Aplicacion 2\Aplicacion 2\bin\Debug\Aplicacion 2.pdb
+D:\Luka Corujo\Programas\Git\Aplicacion2\Aplicacion 2\Aplicacion 2\obj\Debug\Aplicacion 2.csprojResolveAssemblyReference.cache
+D:\Luka Corujo\Programas\Git\Aplicacion2\Aplicacion 2\Aplicacion 2\obj\Debug\Aplicacion_2.MainForm.resources
+D:\Luka Corujo\Programas\Git\Aplicacion2\Aplicacion 2\Aplicacion 2\obj\Debug\Aplicacion 2.csproj.GenerateResource.Cache
+D:\Luka Corujo\Programas\Git\Aplicacion2\Aplicacion 2\Aplicacion 2\obj\Debug\Aplicacion 2.exe
+D:\Luka Corujo\Programas\Git\Aplicacion2\Aplicacion 2\Aplicacion 2\obj\Debug\Aplicacion 2.pdb
